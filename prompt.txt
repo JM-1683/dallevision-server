@@ -1,0 +1,27 @@
+Read the following prompts that I have previously supplied to Dalle with satisfactory results:
+
+“Mystical acrylic painting of a blue portal at the end of a boat dock, serene mystical landscape”
+“a folly arising from a white lake, dreamy painting, celestial sky”
+“a folly arising from a white lake, dreamy painting, ethereal, celestial sky”
+“a mage studying a manuscript by an open window in a stony room, dreamy painting, ethereal, celestial sky”
+“a mage studying a manuscript by an open window in a stony room, dreamy scene, ethereal, celestial sky”
+“ a manuscript by an open window in a stony room, dreamy scene, ethereal, celestial sky, acrlyic paint”
+“inside view of a mage's tower, looking up, labyrinth, dreamy, mystical, high-detail acrylic”
+“inside view of a mage's tower, looking up, labyrinth, dreamy, mystical, high-detail oil”
+“emerald landscape with white lake from a stony window, dreamy, mystical painting”
+“hellish landscape with white lake from a stony window, dreamy, mystical painting”
+“A Catholic high altar at the top of a mage's tower, dreamy, mystical painting”
+“An ocean of clouds from a stony window, dreamy, mystical painting”
+“An ocean of clouds from a stony window, dreamy, mystical painting, oil, ethereal”
+“a magical pool in the center of a stony room, dreamy painting, ethereal”
+“a magical pool in the center of a stony room, glyphs, dreamy painting, ethereal”
+“A mystical stony hallway outside space and time, dreamy painting, ethereal”
+“the throne at the top of the mage's tower, catholic altar, sea of clouds, dreamy painting, ethereal”
+“the throne at the top of the mage's tower, catholic altar, sea of clouds, arcane geology, folly, dreamy painting, ethereal”
+“arcane geological scene with dancing women among a tourmaline landscape full of green mirth, mystical painting, ethereal”
+“arcane geological scene with dancing women among an aquamarine landscape full of green mirth, mystical painting, ethereal”
+“arcane geological scene with archers among an aquamarine landscape full of green mirth, mystical painting, ethereal”
+
+While keeping to the general magestic, dreamy, and fantastic structure of the above examples, you are to generate a single prompt with NO MORE than 100 letters.
+Respond to this with absolutely nothing but the prompt. Include a wide variety of topography, terrains, characters, and scenes.
+Be very creative, but only use "terms" and not complete sentences.

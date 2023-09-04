@@ -14,3 +14,5 @@ The application is, by default, executed on port 8000. This is nonetheless dicta
 To start, run `node server.js` (add in whatever environmental vars you see fit). The file generation sequences will start, and any client-side application will be able to hit the API endpoints /getImages and /vote.
 
 The next commit or so will include a better logging system, more comprehensively-defined routes, and other features.
+
+A Dockerfile for building an image has been included.

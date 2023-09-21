@@ -1,5 +1,5 @@
 # dallevision-server
-An Express.JS API that dynamically generates themed image-story pairs and serves them to a client-side interface.
+An Express.JS server that dynamically generates themed image-story pairs and serves them to a client-side interface.
 
 DalleVision-server autonomously generates (currently just fantasy-)themed image-story pairs, and a rudimentary system to process upvotes on said pairs.
 

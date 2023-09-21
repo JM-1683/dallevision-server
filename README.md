@@ -9,7 +9,7 @@ One will see in server.js, lines 40-48, the environmental vars required for `hos
 
 By default, a new generation completes every 30 seconds. It's possible to change this by passing the environmental variable `CYCLE_TIME=X` (where X = number of milliseconds), but due to much of the code's asynchronous nature, it isn't recommended that one goes below the 30 second threshold. Otherwise, you may face file read/write issues due to files being missing, moved, etc due to them not yet being generated when they're called for.
 
-The application is, by default, executed on port 8000. This is nonetheless dictated by the env var PORT.
+The application is, by default, executed on port 8000. This is nonetheless dictated by the environmental variable `PORT`.
 
 To start, run `node server.js` (add in whatever environmental vars you see fit). The file generation sequences will start, and any client-side application will be able to hit the API endpoints /getImages and /vote.
 
